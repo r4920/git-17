@@ -10,7 +10,7 @@ struct rahulsapplication4App: App {
 
     var body: some Scene {
         WindowGroup {
-            IncomingCallNotificationView()
+            IncomingCallNotification1View()
         }
     }
 }
